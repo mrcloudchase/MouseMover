@@ -9,18 +9,17 @@ This app is a simple GUI application that allows the user to automate mouse move
 - pynput
 
 ### Setup:
-- Create a Python virtual environment: python3 -m venv venv
-- Activate the virtual environment: source venv/bin/activate (macOS/Linux) or venv\Scripts\activate (Windows)
-- Install the dependencies: pip install -r requirements.txt
+- Create a Python virtual environment: `python3 -m venv venv`
+- Install the dependencies: `pip install -r requirements.txt`
 
 ### Running the Application:
-- Start the virtual environment: source venv/bin/activate (macOS/Linux) or venv\Scripts\activate (Windows)
-- Run the application: python app.py
+- Start the virtual environment: `source venv/bin/activate` (macOS/Linux) or `venv\Scripts\activate` (Windows)
+- Run the application: `python app.py` on the terminal
 
 ### Usage:
-1. Click the "Start" button to start automating mouse movements.
-2. Click the "Stop" button to stop automating mouse movements.
-3. Click the "Quit" button to exit the application.
+1. Click the **"Start"** button to start automating mouse movements.
+2. Click the **"Stop"** button to stop automating mouse movements.
+3. Click the **"Quit"** button to exit the application.
 
 #### Note:
 This application will move the mouse cursor randomly on the screen.
