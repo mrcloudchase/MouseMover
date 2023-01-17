@@ -10,10 +10,10 @@ This app is a simple GUI application that allows the user to automate mouse move
 
 ### Setup:
 - Create a Python virtual environment: `python3 -m venv venv`
-- Install the dependencies: `pip install -r requirements.txt`
+- Start the virtual environment: `source venv/bin/activate` (macOS/Linux) or `venv\Scripts\activate` (Windows)
+- Install the dependencies: `pip3 install -r requirements.txt`
 
 ### Running the Application:
-- Start the virtual environment: `source venv/bin/activate` (macOS/Linux) or `venv\Scripts\activate` (Windows)
 - Run the application: `python app.py` on the terminal
 
 ### Usage:
